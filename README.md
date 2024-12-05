@@ -4,4 +4,4 @@ Page element selector.（页面元素选择器），Extracted from [vite-plugin-
 
 See [./src/utils/htmlSelector.ts](./src/utils/htmlSelector.ts).
 
-![](./preview.png)
+![](./preview.gif)
